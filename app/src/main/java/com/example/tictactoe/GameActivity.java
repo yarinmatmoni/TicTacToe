@@ -30,6 +30,7 @@ public class GameActivity extends AppCompatActivity {
             {0,4,8},{2,4,6}
     };
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
